@@ -16,4 +16,10 @@ function agregarAmigo() {
         amigos.push(nombreDeAmigo); //alimenta el array amigos con los nombres indicados
     }
     console.log(amigos);
+    limpiarCaja();
+}
+
+//Funcion de limpiar el campo de escritura 
+function limpiarCaja() {
+    document.querySelector('#amigo').value = '';
 }
