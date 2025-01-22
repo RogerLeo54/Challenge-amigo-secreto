@@ -39,7 +39,7 @@ No se requieren dependencias adicionales para este proyecto.
 2. Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para seleccionar un amigo secreto aleatorio.
 3. El resultado aparecerá arriba del botón de sorteo, mostrando el nombre del amigo secreto.
 4. Video de como se juega:
-
+https://github.com/user-attachments/assets/cacd3c55-93b4-484d-828c-de21980355d0
 
 ## Tecnologías utilizadas
 
