@@ -32,6 +32,7 @@ Este proyecto es parte de un reto propuesto por **Alura Latam** y **One, Oracle 
     ```bash
     open index.html
 No se requieren dependencias adicionales para este proyecto.
+4. puede ingresar al link https://rogerleo54.github.io/Challenge-amigo-secreto/ para ingresar directamente
 
 ## Como se Juega
 1. Ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir".
